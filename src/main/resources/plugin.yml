@@ -1,0 +1,7 @@
+name: SnowSkyWars
+version: '${project.version}'
+main: dev.grimok.core.SkyWars
+api-version: 1.18
+authors: [ GrimOK ]
+description: Quick made skywars plugin lol
+website: www.snowlightdev.com
